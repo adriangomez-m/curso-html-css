@@ -1,0 +1,43 @@
+body{
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.tarjeta{
+    background-image: url(./media/fondo-firma.jpg);
+    color: rgb(0, 0, 0);
+    width: 500px;
+    height: 200px;
+    border-radius: 16px;
+    display: grid;
+    grid-template-columns: 200px 300px;
+    align-content: center;
+}
+
+.fotoCV{
+    padding:5px;
+    width: 160px;
+    height: 160px;
+}
+
+.logos-rrss{
+    width: 75px;
+    padding-right:10px ;
+}
+
+h2{
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+
+h3{
+    font-size: 12px;
+    margin: 0px;
+}
+
+p{
+    font-size: 9px;
+    margin-top: 5px;
+}
+
