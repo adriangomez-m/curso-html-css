@@ -1,0 +1,1 @@
+archivo para comprobar si sólo deja subir carpetas que contienen archivos y las vacías las deja sin subir
