@@ -1,11 +1,38 @@
+*{
+    margin: 0px;
+}
+
 body{
-    background-color: #222;
-    color: white;
-    font-family: 'Poppins'; sans-serif;
+    background-color: #edeced;
+    color: #3d3d3d;
+    font-family: 'Poppins'; 
 }
 
 h3{
-    color: #ffffff;
+    color: #edeced;
 
 }
 
+.fondogris{
+    background-color: #3d3d3d ;
+    color: #edeced;
+    display: flex;
+    justify-content: space-around;   
+}
+
+.prueba{
+    width: 400px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.fila{
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+
+#fotoCV{
+    height: 500;
+    width: 500px;
+}
